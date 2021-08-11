@@ -1,0 +1,18 @@
+h2{
+    color:rgb(10, 3, 107); 
+    text-shadow: 2px 2px 5px white;
+    font-size: 30px;
+}
+th {
+    border: 1px solid #467feb;
+    text-align: center;
+    padding: 8px;
+  }
+  
+td {
+    background-color: #dddddd;
+  }
+p {
+    color:rgb(255, 255, 255);
+    text-shadow: 2px 2px 5px rgb(41, 25, 187);
+}
